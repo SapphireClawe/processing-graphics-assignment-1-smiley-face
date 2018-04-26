@@ -13,5 +13,6 @@ void setup() {
 }
 
 void draw() {
+  rect(70, 50, 70, 40);
 
 }
