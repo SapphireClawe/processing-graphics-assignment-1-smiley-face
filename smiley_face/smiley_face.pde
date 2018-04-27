@@ -27,7 +27,9 @@ void draw() {
     fill(3, 112, 7);
     rect(350, 50, 70, 40);
   
-  
-  ellipse(350, 250, 200, 200);
+  stroke(0, 0, 0);
+    strokeWeight(1);
+    fill(245, 183, 132);
+    ellipse(350, 250, 200, 200);
 
 }
