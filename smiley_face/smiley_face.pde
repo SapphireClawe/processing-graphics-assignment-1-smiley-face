@@ -14,10 +14,13 @@ void setup() {
 
 void draw() {
   stroke(58, 232, 42);
+  strokeWeight(1);
   rect(70, 50, 70, 40);
   stroke(242, 7, 11);
+  strokeWeight(4);
   rect(210, 50, 70, 40);
   stroke(242, 242, 7);
+  strokeWeight(14);
   rect(350, 50, 70, 40);
 
 }
