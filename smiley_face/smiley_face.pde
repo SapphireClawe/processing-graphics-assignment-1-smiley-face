@@ -31,5 +31,13 @@ void draw() {
     strokeWeight(1);
     fill(245, 183, 132);
     ellipse(350, 250, 200, 200);
+  stroke(84, 51, 24);
+    strokeWeight(1);
+    fill(0, 0, 0);
+    ellipse(300, 230, 50, 50);
+  stroke(84, 51, 24);
+    strokeWeight(1);
+    fill(0, 0, 0);
+    ellipse(390, 230, 50, 50);
 
 }
