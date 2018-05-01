@@ -18,14 +18,17 @@ void draw() {
     strokeWeight(1);
     fill(227, 123, 5);
     rect(70, 50, 70, 40);
+    text("fillRGB", 70, 100);
   stroke(242, 7, 11);
     strokeWeight(4);
     fill(227, 5, 97);
     rect(210, 50, 70, 40);
+    text("stroke4", 210, 100);
   stroke(242, 242, 7);
     strokeWeight(14);
     fill(3, 112, 7);
     rect(350, 50, 70, 40);
+    text("fillstroke", 350, 95);
   
   stroke(0, 0, 0);
     strokeWeight(1);
